@@ -1,2 +1,2 @@
-# Libras
-Poroejto de libras em python
+# Organizador de estudos
+
